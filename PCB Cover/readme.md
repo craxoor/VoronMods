@@ -6,3 +6,9 @@ It should be also possible to use the cover without the PCB. For that you have t
 
 ![alt text](https://github.com/craxoor/VoronMods/raw/master/PCB%20Cover/Images/Preview-Front.png)
 ![alt text](https://github.com/craxoor/VoronMods/raw/master/PCB%20Cover/Images/Preview-Back.png)
+
+## New version with AirVents
+
+This is an updated version to the cover with air vents for better air flow to the termistor on the PCB.
+
+![alt text](https://github.com/craxoor/VoronMods/raw/master/PCB%20Cover/Images/Preview-Front-AirVents.png)
