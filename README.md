@@ -1,2 +1,2 @@
 # Voron Mods
-A collection of my Voron build mods while building my Voron 2.4.
+A collection of my mods made during the build of my Voron 2.4.
